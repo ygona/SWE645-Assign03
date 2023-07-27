@@ -43,7 +43,7 @@
 	</dependencies>
 
 	<build>
-	<finalname> surveyJar </finalname>
+	<finalName> surveyJar </finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
